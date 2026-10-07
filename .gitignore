@@ -1,2 +1,7 @@
 data/*
+model/*
 fasttext.bin
+ratings_total.txt
+ratings.txt
+tokenized_data.txt
+model/
