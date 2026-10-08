@@ -5,3 +5,4 @@ ratings_total.txt
 ratings.txt
 tokenized_data.txt
 model/
+vit_train_results/
